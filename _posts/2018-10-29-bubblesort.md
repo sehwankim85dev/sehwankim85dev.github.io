@@ -70,7 +70,8 @@ public class BubbleMain implements Runnable {
 					e.printStackTrace();
 				}
                 // j번째와 j-1번째의 숫자가 비교되었음을 출력하고 비교된 두 수가 자리바뀜이 있었다면 바뀌었다는 메시지를 출력한다
-				System.out.printf(": compare %dth number(%d) with %dth number(%d) %s\n", j-1, numbers[j], j, numbers[j-1], message);
+				System.out.printf(": compare %dth number(%d) with %dth number(%d) %s\n",
+					j-1, numbers[j], j, numbers[j-1], message);
                 // 배열의 끝까지 검사했으면 버블소트된 횟수를 1 증가시키고 그 횟수만큼 버블소트 되었다고 출력한다
 				if (j + 1 == numbers.length - i) {
 					trycount++;
