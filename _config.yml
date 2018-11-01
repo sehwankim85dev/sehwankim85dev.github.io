@@ -20,10 +20,10 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : SEHWANKIM85DEV'S TODAY I LEARNED
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
-
+  공부한 것들을 가급적 매일 블로그에 기록해보고자 하는 취지에서 만들었습니다.
+  I made this blog to log what I learned everyday as far as I can.
 
 ## => Language and Timezone
 ##############################
@@ -35,13 +35,13 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : 김세환(SEHWANKIM85DEV)
   url       :
   avatar    : # path or url of avatar image
-  bio       : I am an amazing person.
-  email     :
+  bio       : a junior developer(mainly web). Java, JSP, HTML5, Spring, Oracle, MySQL. TOEIC(830), JLPT(N2). SNU Bachelor of Laws.
+  email     : kshcow@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : https://twitter.com/putUpASignHwan # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
